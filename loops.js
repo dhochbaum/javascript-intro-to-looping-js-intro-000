@@ -8,8 +8,8 @@ function forLoop(a) {
       a[i] = `I am ${i} strange loops.`
     }
     */
-    
+
   }
-  
+
   return a
 }
