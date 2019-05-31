@@ -10,6 +10,6 @@ function forLoop(a) {
     */
 
   }
-  a['11'] = "I am 11 strange loops."
+  a['11'] = "I am 1 strange loop."
   return a
 }
