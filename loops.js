@@ -14,3 +14,10 @@ function forLoop(a) {
   a['34'] = "I am 24 strange loops."
   return a
 }
+
+function whileLoop(n) {
+  while (n >= 0) {
+    console.log(n--);
+  }
+  console.log('done');
+}
