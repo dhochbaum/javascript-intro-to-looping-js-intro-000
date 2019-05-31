@@ -11,5 +11,6 @@ function forLoop(a) {
 
   }
   a['11'] = "I am 1 strange loop."
+  a['34'] = "I am 24 strange loops."
   return a
 }
