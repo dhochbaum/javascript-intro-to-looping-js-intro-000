@@ -3,7 +3,7 @@ function forLoop(a) {
     if (i===1) {
       a[i] = "I am 1 strange loop."
     } else {
-      a[i] = "I am ${i} strange loops."
+      a[i] = `I am ${i} strange loops.`
     }
   }
   return a
