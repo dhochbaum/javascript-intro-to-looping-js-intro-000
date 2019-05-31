@@ -16,6 +16,7 @@ function forLoop(a) {
 }
 
 function whileLoop(n) {
+  n--
   while (n >= 0) {
     console.log(n--);
   }
